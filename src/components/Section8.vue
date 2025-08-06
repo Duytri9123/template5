@@ -1,5 +1,5 @@
 <template>
-  <div class="relative mt-15 md:mt-25 lg:mt-[5%] xl:mt-[4%] 2xl:mt-[8%]">
+  <div class="relative mt-15 md:mt-20 lg:mt-[5%] xl:mt-[4%] 2xl:mt-[8%]">
     <div
       class="relative flex flex-col justify-center items-center lg:item-start w-full p-4 bg-background py-[5%]"
     >

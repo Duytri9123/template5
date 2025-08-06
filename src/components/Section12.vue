@@ -1,9 +1,9 @@
 <template>
-  <section class="relative  md:mt-10 lg:mt-[5%] xl:mt-[4%] 2xl:mt-[8%] mb-4">
+  <section class="relative  md:mt-10 lg:mt-[2%] xl:mt-[3%] 2xl:mt-[3%] mb-4">
     <div
       class="xl:w-3/4 lg:w-7/8 lg:mx-auto flex flex-col lg:flex-row lg:gap-8 gap-3 items-center justify-center"
     >
-      <div class="w-full flex lg:justify-end justify-center py-10">
+      <div class="w-full flex lg:justify-end justify-center">
         <div class="rounded-xl shadow-lg">
           <img
             src="../Images/bangbieu.png"

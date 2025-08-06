@@ -1,5 +1,5 @@
 <template>
-  <section class="relative  md:mt-10 lg:mt-[10%] xl:mt-[4%] 2xl:mt-[6%]">
+  <section class="relative  md:mt-10 lg:mt-[3%] xl:mt-[4%] 2xl:mt-[6%]">
     <div class="relative w-full flex flex-col justify-center items-center gap-10 bg-background-rev overflow-hidden z-10 2xl:py-[5%] lg:py-[5%] py-[3%]">
       <div class="absolute w-full opacity-25">
         <img src="../Images/hinhanh.png" alt="" class="object-cover lg:w-full h-[100dvh]" />

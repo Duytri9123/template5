@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="relative w-screen bg-background text-white flex flex-col items-center md:mt-10 lg:mt-[5%] xl:mt-[4%] 2xl:mt-[8%]"
+    class="relative w-screen bg-background text-white flex flex-col items-center md:mt-10 lg:mt-[2%] xl:mt-[2%] 2xl:mt-[3%]"
   >
     <div
       class="md:w-8/9 lg:w-7/8 w-full p-1 flex xl:flex-row flex-col items-center justify-center gap-3"
