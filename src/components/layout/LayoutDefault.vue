@@ -3,9 +3,8 @@
     <div class="justify-center items-center flex flex-col">
       <Header />
     </div>
-    <div class="overflow-hidden lg:w-[99dvw] w-screen">
       <Hero />
-    </div>
+
     <Section2 />
     <Section3 />
     <Section4 />

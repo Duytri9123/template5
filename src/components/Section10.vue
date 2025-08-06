@@ -100,7 +100,7 @@
           }"
           :modules="[Navigation, Pagination, Autoplay]"
           :pagination="{
-            el: '.custom-pagination',
+            el: '.doctors-pagination',
             clickable: true,
             type: 'bullets',
             dynamicBullets: false,
@@ -170,7 +170,7 @@
         </Swiper>
 
         <!-- Custom Pagination -->
-        <div class="custom-pagination flex justify-center items-center gap-2 mt-8"></div>
+        <div class="doctors-pagination flex justify-center items-center gap-2 mt-8"></div>
       </div>
     </div>
   </section>
@@ -235,7 +235,7 @@ const services = [
 // Nhân đôi mảng dịch vụ
 const allServices = [...services, ...services, ...services, ...services];
 const updatePagination = () => {
-  const paginationEl = document.querySelector(".custom-pagination");
+  const paginationEl = document.querySelector(".doctors-pagination");
   if (!paginationEl) return;
 
   paginationEl.innerHTML = "";

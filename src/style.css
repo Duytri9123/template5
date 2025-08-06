@@ -147,10 +147,10 @@ body {
 
 
 .custom-bullet {
-  width: 12px;
+  width: 16px;
   height: 12px;
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 50%;
+  background:#EBEBEB;
+  border-radius: 999px;
   display: inline-block;
   margin: 0 4px;
   cursor: pointer;
@@ -197,6 +197,7 @@ body {
   .custom-pagination {
     margin-top: 1.5rem;
   }
-  
 
+}.has-bottom-shadow {
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
