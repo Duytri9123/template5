@@ -1,21 +1,23 @@
 <template>
-  <div class="overflow-hidden lg:w-[99dvw] w-screen">
+  <div class="overflow-hidden w-[calc(100%-3px)]]">
     <div class="justify-center items-center flex flex-col">
       <Header />
     </div>
-    <Hero />
+    <div class="overflow-hidden lg:w-[99dvw] w-screen">
+      <Hero />
+    </div>
     <Section2 />
-    <Section3/>
-    <Section4/>
-    <Section5/>
-    <Section6/>
-    <Section7/>
-    <Section8/>
-    <Section9/>
-    <Section10/>
-    <Section11/>
-    <Section12/>
-    <Footer/>
+    <Section3 />
+    <Section4 />
+    <Section5 />
+    <Section6 />
+    <Section7 />
+    <Section8 />
+    <Section9 />
+    <Section10 />
+    <Section11 />
+    <Section12 />
+    <Footer />
   </div>
 </template>
 
