@@ -19,7 +19,7 @@
           v-for="(item, index) in navtive"
           :key="index"
           href="#"
-          class="font-lato font-bold text-black hover:underline hover:text-blue-600 text-sm xl:text-base whitespace-nowrap text-justify"
+          class="font-lato font-bold text-black hover:border-b-2 border-black hover:text-blue-600 text-sm xl:text-base whitespace-nowrap text-justify"
           >{{ item }}</a
         >
       </nav>
@@ -141,7 +141,7 @@
               :key="index"
               href="#"
               @click="isModal = false"
-              class="block text-gray-700 hover:text-blue-600 hover:bg-amber-100 font-medium py-4 px-4 w-full shadow-[0_2px_0_rgba(0,0,0,0.2)] transform hover:translate-y-1 transition duration-300 border-t-2 border-gray-200"
+              class="block text-gray-700 hover:text-blue-600 hover:bg-amber-100 font-medium py-4 px-4 w-full shadow-[2px_0_0_rgba(0,0,0,0.2)] transform hover:translate-y-1 transition duration-300 border-t-2 border-gray-200"
               >{{ item }}</a
             >
           </nav>

@@ -14,7 +14,7 @@
             </h1>
 
             <div
-              class="flex flex-row gap-4 2xl:gap-6 font-bold text-center text-sm lg:text-base xl:text-[18px] px-2"
+              class="flex flex-row gap-4 2xl:gap-6 font-bold text-center text-sm md:text-base lg:text-base xl:text-[18px] px-2"
             >
               <div
                 v-for="(tab, index) in tabs"

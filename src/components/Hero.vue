@@ -1,12 +1,12 @@
 <template>
   <div class="flex flex-row ">
-    <div class="relative w-full hidden lg:flex xl:-translate-y-16 -translate-y-14 ">
+    <div class="relative w-full hidden lg:flex xl:-translate-y-16 -translate-y-16 ">
       <img
         src="../Images/background-pd.png"
         alt="background"
-        class="w-full object-cover"
+        class="w-full object-cover min-h-[500px] 2xl:min-h-[720px]"
       />
-      <div class="absolute inset-0 flex items-center justify-center z-10">
+      <div class="absolute inset-0 flex items-center justify-center z-10 mt-10">
         <Section1 />
       </div>
     </div>
