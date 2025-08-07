@@ -1,7 +1,7 @@
 <template>
-  <section class="relative  md:mt-10 lg:mt-[2%] xl:mt-[3%] 2xl:mt-[3%] mb-4">
+  <section class="relative mt-8  md:mt-10 lg:mt-[2%] xl:mt-[3%] 2xl:mt-[3%] mb-4">
     <div
-      class="xl:w-3/4 lg:w-7/8 lg:mx-auto flex flex-col lg:flex-row lg:gap-8 gap-3 items-center justify-center"
+      class="xl:w-3/4 lg:w-7/8 lg:mx-auto flex flex-col lg:flex-row lg:gap-8 gap-4 items-center justify-center p-4"
     >
       <div class="w-full flex lg:justify-end justify-center">
         <div class="rounded-xl shadow-lg">

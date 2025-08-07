@@ -6,7 +6,7 @@
       >
         Các gói dịch vụ liên quan
       </h1>
-      <div class="relative 2xl:w-3/4 w-full xl:w-6/7 lg:w-6/7 px-8">
+      <div class="relative 2xl:w-3/4 w-full xl:w-6/7 lg:w-6/7 lg:px-8 px-4">
         <div class=" w-full flex flex-row justify-center items-center gap-4 lg:gap-0">
           <button
             class="swiper-button-prev-custom cursor-pointer lg:p-3 p-2 aspect-square rounded-full bg-white hover:bg-gray-100 drop-shadow-lg flex items-center justify-center lg:absolute top-1/2 -translate-y-1/2 -left-12 z-10"

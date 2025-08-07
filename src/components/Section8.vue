@@ -7,13 +7,13 @@
         class="flex flex-col justify-center items-center 2xl:gap-6 lg:gap-3 gap-3 w-full md:px-8 lg:px-3 2xl:px-0 p-1 2xl:w-3/4 xl:w-9/10 lg:w-full text-white"
       >
         <h1
-          class="text-lg md:text-xl lg:text-3xl 2xl:text-[38px] font-bold mb-4 text-center w-1/2 p-2"
+          class="text-lg md:text-xl lg:text-3xl 2xl:text-[38px] font-bold mb-4 text-center lg:w-1/2 p-2"
         >
           Lợi ích khi sử dụng dịch vụ Tầm soát ung thư tuyến giáp
         </h1>
         <div class="space-y-3 xl:space-y-4 flex flex-row-reverse">
           <div
-            class="text-white text-sm md:text-base grid lg:grid-cols-2 grid-cols-1 2xl:gap-8 lg:gap-4 gap-4 font-medium"
+            class="text-white text-sm md:text-base grid lg:grid-cols-2 grid-cols-1 2xl:gap-8npm lg:gap-4 gap-4 font-medium"
           >
             <div
               v-for="(item, index) in targets"

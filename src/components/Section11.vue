@@ -1,15 +1,15 @@
 <template>
-  <section class="relative  md:mt-10 lg:mt-[3%] xl:mt-[4%] 2xl:mt-[6%]">
-    <div class="relative w-full flex flex-col justify-center items-center gap-10 bg-background-rev overflow-hidden z-10 2xl:py-[5%] lg:py-[5%] py-[3%]">
+  <section class="relative  mt-10 md:mt-10 lg:mt-[3%] xl:mt-[4%] 2xl:mt-[6%]">
+    <div class="relative w-full flex flex-col justify-center items-center gap-6 bg-background-rev overflow-hidden z-10 ">
       <div class="absolute w-full opacity-25">
         <img src="../Images/hinhanh.png" alt="" class="object-cover lg:w-full h-[100dvh]" />
       </div>
       <h1
-        class="text-white relative xl:w-1/2 lg:w-3/5 text-lg md:text-xl lg:text-3xl xl:text-[38px] font-bold text-center px-4"
+        class="text-white relative xl:w-1/2 lg:w-3/5 text-lg md:text-xl lg:text-3xl xl:text-[38px] font-bold text-center px-4 2xl:pt-[5%] lg:pt-[5%] pt-[3%]"
       >
         Cảm nhận của khách hàng sau khi sử dụng dịch vụ Tầm soát ung thư tuyến giáp
       </h1>
-      <div class="relative 2xl:w-7/9 w-full xl:w-6/7 lg:w-6/7 p-3">
+      <div class="relative 2xl:w-7/9 w-full xl:w-6/7 lg:w-6/7 p-3 2xl:pb-[5%] lg:pb-[5%] pb-[3%] ">
         <div class="w-full flex flex-row justify-center items-center gap-4 lg:gap-0">
           <button
             class="swiper-button-prev-custom cursor-pointer lg:p-3 p-2 aspect-square rounded-full bg-white hover:bg-gray-100 drop-shadow-lg flex items-center justify-center lg:absolute top-1/2 -translate-y-1/2 -left-12 z-10"

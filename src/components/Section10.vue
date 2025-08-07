@@ -94,7 +94,7 @@
           :looped-slides="6"
           :slides-per-group="1"
           :breakpoints="{
-            768: { slidesPerView: 2, slidesPerGroup: 1 },
+            650: { slidesPerView: 2, slidesPerGroup: 1 },
             1024: { slidesPerView: 3, slidesPerGroup: 1 },
             1520: { slidesPerView: 4, slidesPerGroup: 1 },
           }"
@@ -170,7 +170,7 @@
         </Swiper>
 
         <!-- Custom Pagination -->
-        <div class="doctors-pagination flex justify-center items-center gap-2 mt-8"></div>
+        <div class="relative bottom-4 doctors-pagination flex justify-center items-center gap-2"></div>
       </div>
     </div>
   </section>

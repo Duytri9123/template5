@@ -17,13 +17,13 @@
           </div>
           <!-- tieu de chinh -->
           <div
-            class="w-full lg:w-7/9 xl:w-8/9 2xl:w-full max-w-4/5 xl:leading-[120%] font-bold text-2xl text-center md:text-3xl lg:text-start  lg:text-3xl xl:text-5xl 2xl:text-6xl "
+            class="w-full lg:w-7/9 xl:w-8/9 2xl:w-full lg:max-w-4/5 xl:leading-[120%] font-bold text-2xl text-center md:text-3xl lg:text-start lg:text-3xl xl:text-5xl 2xl:text-6xl "
           >
             Phát hiện sớm ung thư giúp điều trị dễ dàng
           </div>
           <!-- content -->
           <p
-            class="w-8/9 lg:text-justify text-center text-sm font-medium md:text-base"
+            class="sm:w-8/9 lg:text-justify text-center text-sm font-medium md:text-base"
           >
             Tầm soát ung thư tuyến giáp là phương pháp y học hiện đại giúp phát hiện sớm
             các tổn thương tiền ung thư. Đây được đánh giá là chìa khóa để đưa ra phương
