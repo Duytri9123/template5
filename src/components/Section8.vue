@@ -13,7 +13,7 @@
         </h1>
         <div class="space-y-3 xl:space-y-4 flex flex-row-reverse">
           <div
-            class="text-white text-sm md:text-base grid lg:grid-cols-2 grid-cols-1 2xl:gap-6 lg:gap-4 gap-4 font-medium"
+            class="text-white text-sm md:text-base grid lg:grid-cols-2 grid-cols-1 2xl:gap-8 lg:gap-4 gap-4 font-medium"
           >
             <div
               v-for="(item, index) in targets"
